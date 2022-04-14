@@ -1,6 +1,6 @@
-package com.metin.github.steamapi.streamapi.service;
+package com.metin.github.steamapi.service;
 
-import com.metin.github.steamapi.streamapi.model.Student;
+import com.metin.github.steamapi.model.Student;
 import org.springframework.stereotype.Service;
 
 import java.util.Arrays;

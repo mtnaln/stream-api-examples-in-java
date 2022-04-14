@@ -1,7 +1,7 @@
-package com.metin.github.steamapi.streamapi;
+package com.metin.github.steamapi;
 
-import com.metin.github.steamapi.streamapi.model.Student;
-import com.metin.github.steamapi.streamapi.service.StudentService;
+import com.metin.github.steamapi.model.Student;
+import com.metin.github.steamapi.service.StudentService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

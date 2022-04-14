@@ -1,4 +1,4 @@
-package com.metin.github.steamapi.streamapi.model;
+package com.metin.github.steamapi.model;
 
 import java.util.List;
 
